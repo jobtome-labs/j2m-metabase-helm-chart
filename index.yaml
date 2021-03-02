@@ -2,6 +2,23 @@ apiVersion: v1
 entries:
   metabase:
   - apiVersion: v1
+    appVersion: v0.38.0.1
+    created: "2021-03-02T10:53:14.359152+01:00"
+    description: The easy, open source way for everyone in your company to ask questions
+      and learn from data.
+    digest: 9f7634134dbeb175d15459726e591efe2b52fe35da923a8adb1357827ef8dd21
+    home: http://www.metabase.com/
+    icon: http://www.metabase.com/images/logo.svg
+    maintainers:
+    - email: sre@jobtome.com
+      name: Jobtome
+    name: metabase
+    sources:
+    - https://github.com/metabase/metabase
+    urls:
+    - https://github.com/jobtome-labs/j2m-metabase-helm-chart/metabase-0.14.0.tgz
+    version: 0.14.0
+  - apiVersion: v1
     appVersion: v0.36.3
     created: "2020-11-10T14:17:11.112251781Z"
     description: The easy, open source way for everyone in your company to ask questions and learn from data.
