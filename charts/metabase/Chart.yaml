@@ -3,10 +3,10 @@ description: The easy, open source way for everyone in your company to ask quest
   and learn from data.
 name: metabase
 version: 0.13.1
-appVersion: v0.36.3
+appVersion: v0.38.0.1
 maintainers:
-- name: pmint93
-  email: phamminhthanh69@gmail.com
+- name: Jobtome
+  email: sre@jobtome.com
 home: http://www.metabase.com/
 icon: http://www.metabase.com/images/logo.svg
 sources:
