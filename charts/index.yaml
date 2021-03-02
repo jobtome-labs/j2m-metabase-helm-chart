@@ -16,6 +16,6 @@ entries:
     sources:
     - https://github.com/metabase/metabase
     urls:
-    - https://github.com/jobtome-labs/j2m-metabase-helm-chart/metabase-0.14.0.tgz
+    - https://github.com/jobtome-labs/j2m-metabase-helm-chart/blob/master/charts/metabase-0.14.0.tgz
     version: 0.14.0
 generated: "2021-03-02T10:53:14.357994+01:00"
